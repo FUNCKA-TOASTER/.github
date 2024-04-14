@@ -1,4 +1,4 @@
-<hr>
+
 <div align="center">
   <img src="https://github.com/STALCRAFT-FUNCKA/.github/assets/76991612/add3815c-6763-4a19-bc9f-6fda07af88c6">
 </div>
